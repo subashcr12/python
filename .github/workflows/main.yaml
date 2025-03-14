@@ -18,5 +18,5 @@ jobs:
            echo "This is custom script"
            mkdir -p myfolder
            echo "Script executed sucessfully"
-           echo"what"
+           echo"done"
   

@@ -15,8 +15,8 @@ jobs:
 
        - name: custom run
          run: |
-           echo "This is custom script"
-           mkdir -p myfolder
-           echo "Script executed sucessfully"
-           echo "done script"
+          echo "This is custom script"
+          mkdir -p myfolder
+          echo "Script executed sucessfully"
+          echo "done script"
   

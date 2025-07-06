@@ -27,3 +27,5 @@ if __name__ == "__main__":
     last_file = get_last_modified_file()
     if last_file:
         open_in_visual_studio(last_file)
+
+#sample
